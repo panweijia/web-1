@@ -1,0 +1,13 @@
+*{padding-bottom:0px;margin:0px;}
+.input{float:right;text-align:right;}
+.logo{width:1000px;margin:0px auto;text-align:center;}
+.sou{float:right;}
+.menu{background-color:#aaa;text-align:center;width:auto;height:50px;padding-top:25px;}
+a:link{color:#000;}
+.banner{width:auto;height:auto;text-align:center;}
+.main{width:1000px;margin:auto;}
+.m_left{width:598px;height:398px;float:right;border:1px solid #ccc;margin:auto;}
+.m_right{width:398px;height:398px;float:left;border:1px solid #ccc;margin:auto;}
+.list{width:1000px;margin:0px auto;}
+.list_img{width:230px;height:300px;float:left;margin:10px 10px 100px;}
+.footer{height:80px;background:#666;color:#aaa;text-align:center;clear:both;padding-top:25px;}
