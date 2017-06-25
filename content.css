@@ -5,8 +5,8 @@
     clear:both;
 }
 .zuocekuangjia{
-	float:left;
     width:700px;
+    float: left;
 }
 .youcekuangjia{
 	float:right;
@@ -55,24 +55,6 @@
 .zhengwendibu{
 	height:40px;
 	width:700px;
-}
-.shangyipian{
-	float:left;
-	height:40px;
-	width:350px;
-}
-.xiayipian{
-	float:right;
-	height:40px;
-	width:350px;
-}
-.shangyipian p{
-	float:left;
-	margin:10px;
-}
-.xiayipian p{
-	float:right;
-	margin:10px;
 }
 .zuijingengxinkuang{
 	width:280px;
